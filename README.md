@@ -1,5 +1,5 @@
 # Renewable-Modelling-Ireland
-## A repository that will contain interesting results and visuals while analysing Ireland renewable energy resources
+## A repository that will contain interesting results and visuals while analysing Ireland's renewable energy resources
 
 This Redme contains a sample of the data we hope to work with, along with some charts. This dataset was provided to us by a homeowner with two installed sets of solar panels, one south West facing, and one north east facing. The dataset contains a time stamp (at 30 second intervals) and the power production for that 30 second interval.
 In these images the hourly average is shown for four different months of the year (A full year is available, but four sample months are selected for ease of visualisation. 
