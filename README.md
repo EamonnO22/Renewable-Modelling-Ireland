@@ -5,7 +5,7 @@ This Redme contains a sample of the data we hope to work with, along with some c
 In these images the hourly average is shown for four different months of the year (A full year is available, but four sample months are selected for ease of visualisation. 
 
 For individual homes this allows us to look at specific patterns and forecasts their specific energy use. 
-One interesting pattern in these is for the afternoon period, instead of the average showing a smooth trend, there are sharp jumps, which perhaps may be due to a partial obstacles blocking the sun at those times.
+One interesting pattern in these is for the afternoon period, instead of the average showing a smooth trend, there are sharp jumps, which perhaps may be due to an obstacle partially blocking the direct sun at those times.
 
 ![NE Hourly Averages](https://user-images.githubusercontent.com/57291414/234742406-da7ca2fd-da44-4d3c-b089-902e4d84a4ae.png)
 ![South West Hourly Average](https://user-images.githubusercontent.com/57291414/234742421-a32d726d-b1cc-460e-aa7e-dfd6e91d1610.png)
