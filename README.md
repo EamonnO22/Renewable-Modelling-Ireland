@@ -12,8 +12,7 @@ One interesting pattern in these is for the afternoon period, instead of the ave
 ![image](https://github.com/EamonnO22/Renewable-Modelling-Ireland/assets/57291414/07c41f95-57d6-451c-9c18-81c46e9a8ea5)
 
 We can also view the range of likely values over the duration of the month, these charts show for two sample months for the south facing panels, the average hourly production and a standard deviation either side.
-![September Averages](https://user-images.githubusercontent.com/57291414/234743853-d07a6671-a105-43e1-b63e-a59e3de52d06.png)
-![June With Range](https://user-images.githubusercontent.com/57291414/234742840-21bbdcdb-df5f-47b7-8bb4-1c84c2bda657.png)
+![image](https://github.com/EamonnO22/Renewable-Modelling-Ireland/assets/57291414/16693673-9d17-4d08-b5dd-353c79c517aa)
 
 Along with studying the typical production we will hope to forecast and predict solar production, both for panels at new locations, and also predicting hours/days ahead in time. For example we will work towards produce accurate forecasts at a high time resolution, similar to this:
 ![image](https://github.com/EamonnO22/Renewable-Modelling-Ireland/assets/57291414/1c4bb8c2-b8bc-44f7-b03c-68abe049b24f)
